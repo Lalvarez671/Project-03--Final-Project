@@ -1,0 +1,49 @@
+/* Background */
+body {
+    background-color: #f2f2f2;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Main heading */
+h1 {
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+
+/* Section headings */
+h2 {
+    color: #333333;
+}
+
+/* Paragraphs */
+p {
+    color: #111111;
+    padding: 10px;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 20px;
+}
+
+/* Navigation */
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+nav a:hover {
+    color: red;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 2px solid black;
+}
